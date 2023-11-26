@@ -1,10 +1,12 @@
 # Hi there! 👋
 
-I'm Jacob, a software engingeer with a background in Games Development. Currently working as a **Frontend Developer at Solutionpath**, where I design, lead, and develop accessible and elegant data dashboards for the education sector.
+I'm Jacob, a software developer with over 5 years of experience, and a background in games development, service desk and direct client communication, and UX design. I prioritise combining my creative past with in-depth knowledge of the end-user experience to build accessible and elegant user interfaces, data dashboards, and web applications.
 
-In my spare time I play Dungeons and Dragons, spoil my three cats, and make pierogi.
+My main focus these days is building 3D Visual Commerce products at **Fixtuur**.
 
-Fun fact: Back in my Games Development days, my team and I received an award for Best Audio Design!
+In my spare time I make the most amazing focaccia, spoil my three cats - Nebula, Gamora, and Meabh, and run Dungeons & Dragons and other TTRPG games for my friends.
+
+Fun fact: Back in my Games Development days, I worked as a Technical Audio Engineer - and my team and I won an award for Best Audio Design!
 
 ## Languages, tools, and proficiencies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
