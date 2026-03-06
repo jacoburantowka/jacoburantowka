@@ -2,10 +2,9 @@
 
 I'm Jacob, lovely to meet you!
 
-I combine my creative past with in-depth knowledge of the UX to build accessible and elegant user interfaces, data dashboards, and web applications.
-These days you can find me building 3D Visual Commerce products at **Fixtuur**.
+I'm a software engineer with experience across ed-tech, e-commerce, and the video games industries. I have led teams, owned initiatives that directly enabled client acquisition, driven down technical debt, and built a track record of reliable delivery at scale. At the moment, you can find me working on 3D visualisation and AR software.
 
-Other than being your QA team's favourite developer, I'm also an award winning sound designer, a dad to three cats, and a big fan of Dungeons & Dragons.
+Other than that, I'm also an award winning audio designer, a dad to three cats, and a regular at the local climbing gym. 
 
 <!--
 **jacoburantowka/jacoburantowka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
